@@ -1,0 +1,13 @@
+.passo {
+    display: none;
+}
+
+.passo.ativo {
+    display:block;
+}
+
+body {
+    background:green;
+    color:gold;
+    background-image: url(https://experienciabarbara.com.br/wp-content/uploads/2021/05/pontos-mergulho-ilhabela-1024x640.jpg);
+}
